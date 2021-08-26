@@ -1,10 +1,10 @@
 import {combineReducers} from 'redux';
 import {connectRouter} from 'connected-react-router';
-import { createBrowserHistory } from 'history';
+import { createHashHistory } from 'history';
 import peopleReducer from './people';
 import peopleDetailsReducer from './peopleDetails';
 
-export const history = createBrowserHistory();
+export const history = createHashHistory();
 
 const initial = {};
 
