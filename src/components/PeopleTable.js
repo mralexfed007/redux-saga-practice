@@ -7,7 +7,7 @@ import PeopleTablePagination from "./PeopleTablePagination";
 import SearchForm from "./SearchForm";
 
 export default function PeopleTable() {
-  const tableHead = ['Name', 'Birth year', 'Yey color', 'Gender', 'Hair color', 'Height', 'Mass', '']
+  const tableHead = ['Name', 'Birth year', 'Eye color', 'Gender', 'Hair color', 'Height', 'Mass', '']
   const people = useSelector(selectPeople);
   const dispatch = useDispatch();
   const changePage = (newPage) => dispatch({
@@ -56,7 +56,7 @@ export default function PeopleTable() {
                 <tr key={person.name}>
                   <td>{person.name}</td>
                   <td>{person.birth_year}</td>
-                  <td>{person.yey_color}</td>
+                  <td>{person.eye_color}</td>
                   <td>{person.gender}</td>
                   <td>{person.hair_color}</td>
                   <td>{person.height}</td>

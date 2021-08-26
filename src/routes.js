@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
 import App from "./pages/App"
-import Details from "./pages/Details"
+import Details from "./pages/Details/Details"
 
 export const MAIN_ROUTE = 'MAIN_ROUTE';
 export const PEOPLES_DETAILS_ROUTE = 'PEOPLES_DETAILS_ROUTE';
