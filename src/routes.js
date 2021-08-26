@@ -43,7 +43,7 @@ export default function Routes() {
                 {routes.map(route => {
                   const {id, ...props} = route;
                   return (
-                    <Route key={id} path={`${props.path}`} exact component={props.component} />
+                    <Route key={id} path={props.path} exact component={props.component} />
                 )})}
               </Switch>
             </div>
