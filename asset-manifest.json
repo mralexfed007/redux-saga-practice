@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/redux-saga-practice/static/js/main.e74f169d.chunk.js",
+    "main.js.map": "/redux-saga-practice/static/js/main.e74f169d.chunk.js.map",
+    "runtime-main.js": "/redux-saga-practice/static/js/runtime-main.1fae75c3.js",
+    "runtime-main.js.map": "/redux-saga-practice/static/js/runtime-main.1fae75c3.js.map",
+    "static/css/2.2088da7f.chunk.css": "/redux-saga-practice/static/css/2.2088da7f.chunk.css",
+    "static/js/2.9dcb068b.chunk.js": "/redux-saga-practice/static/js/2.9dcb068b.chunk.js",
+    "static/js/2.9dcb068b.chunk.js.map": "/redux-saga-practice/static/js/2.9dcb068b.chunk.js.map",
+    "index.html": "/redux-saga-practice/index.html",
+    "static/css/2.2088da7f.chunk.css.map": "/redux-saga-practice/static/css/2.2088da7f.chunk.css.map",
+    "static/js/2.9dcb068b.chunk.js.LICENSE.txt": "/redux-saga-practice/static/js/2.9dcb068b.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/redux-saga-practice/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fae75c3.js",
+    "static/css/2.2088da7f.chunk.css",
+    "static/js/2.9dcb068b.chunk.js",
+    "static/js/main.e74f169d.chunk.js"
+  ]
+}
